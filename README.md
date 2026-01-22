@@ -1,7 +1,6 @@
 <div align=center>
 
-# 🔥【三年面试五年模拟】AIGC算法岗/开发岗的面试求职秘籍
-
+# 🔥大模型算法应用学习总结
 【Three Years of Interviews, Five Years of Practice】The Ultimate Guide to **AIGC Interview、LLMs Interview、AI Agent Interview、Deep Learning Interview、Algorithm Engineer Interview**
 
 [免费H800算力，立即领取！](#Group)
